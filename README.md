@@ -1,6 +1,7 @@
 # React Chat 
 ## React Chat coded with React NodeJs Express and Socket.io (Youtube demo)
 
+## Live demo : https://www.youtube.com/watch?v=YsCHC3Ohxi0
 
 ## Available Scripts
 In the project directory, you can run:
